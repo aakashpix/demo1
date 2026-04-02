@@ -8,6 +8,6 @@ public class Hello{
 
     @GetMapping("/")
     public String hello() {
-        return "Hello from Aakash Pipeline!";
+        return "Hello from RMK ENGINEERING COLLEGE Pipeline!";
     }
 }
