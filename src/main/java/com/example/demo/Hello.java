@@ -8,6 +8,6 @@ public class Hello{
 
     @GetMapping("/")
     public String hello() {
-        return "WELCOME TO SPRING BOOT";
+        return "DEVOPS CLASS ROOM";
     }
 }
